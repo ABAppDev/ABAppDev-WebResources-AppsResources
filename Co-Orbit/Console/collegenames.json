@@ -1,0 +1,14 @@
+{
+  "CollegesName": [
+    {
+      "college_name": "MET Institute Of Engineering, Nashik",
+      "college_str": "METIOE",
+      "college_id": "10001"
+    },
+    {
+      "college_name": "R. C. Patel Institute Of Technology, Shirpur",
+      "college_str": "RCPIT",
+      "college_id": "10002"
+    }
+  ]
+}
