@@ -1,11 +1,11 @@
 [
 {
-  "iconURL": "URL",
-  "titleNAME": "1st Jan Wednesday",
+  "iconURL": "https://raw.githubusercontent.com/AB-AppDev/ANDROIDworks/master/Co-Orbit/Console/ImageSets/ready.png",
+  "titleNAME": "Published",
   "keyID":1
 }, {
-  "iconURL": "Guru Govind Singh Jayanti",
-  "titleNAME": "2nd Jan Thursday",
+  "iconURL": "https://raw.githubusercontent.com/AB-AppDev/ANDROIDworks/master/Co-Orbit/Console/ImageSets/pending.png",
+  "titleNAME": "Pendings",
   "keyID":2
   }
 ]
